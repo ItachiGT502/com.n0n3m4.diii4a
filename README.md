@@ -365,3 +365,4 @@ finish();
 * [F-Droid(different signature)](https://f-droid.org/packages/com.karin.idTech4Amm/)
 
 ----------------------------------------------------------------------------------
+Itachi NZP 
